@@ -1,0 +1,501 @@
+temperature_celsius,condition_text,wind_kph,wind_direction,pressure_in,humidity,feels_like_celsius,visibility_km,uv_index,gust_kph,air_quality_Carbon_Monoxide,air_quality_Ozone,air_quality_Nitrogen_dioxide,air_quality_Sulphur_dioxide,moon_phase
+22,Sunny,25.9,ESE,29.97,65,24.2,10,6,18.6,303.8,64.4,12,25.5,Waxing Crescent
+2,Clear,3.6,N,30.18,80,1,10,1,9.1,340.5,15.6,15.3,4.8,Waning Gibbous
+6,Partly cloudy,6.8,ESE,29.71,87,3.5,10,1,22.5,363.8,0.1,40.1,15.3,First Quarter
+26,Partly cloudy,31,E,29.94,84,28.7,10,9,59.7,201.9,19.5,0.1,0.3,Waxing Crescent
+26,Light rain,6.8,SE,29.8,84,28.4,10,6,17.3,213.6,26.5,1.2,0.3,Full Moon
+33,Sunny,11.2,N,29.8,32,41.7,10,7,50.6,257,93,0.8,0.7,New Moon
+19.9,Clear,3.6,NNE,29.85,41,19.9,10,1,6,423.9,26.8,4.5,2.5,Waning Crescent
+-11,Light snow,15.1,SE,29.44,85,-19.2,6,1,28.3,320.4,28.3,19.4,13.6,Last Quarter
+32,Partly cloudy,24.1,ESE,29.83,63,43.4,10,6,3.6,1014.7,55.1,11.5,8.9,Waning Crescent
+26,Sunny,25.9,E,30.06,48,25.9,10,7,33.1,257,105.9,3,13.5,Waxing Crescent
+23.8,Clear,5.8,E,29.87,80,25.7,10,1,12.1,330.5,0.4,0.4,0.3,Waning Gibbous
+26,Light rain,6.1,S,29.88,94,28.5,9,7,22.6,263.7,6.9,3.3,1.4,Full Moon
+34,Mist,6.1,W,29.88,23,32,3,8,8.2,547.4,50.1,3.8,0.8,New Moon
+20,Clear,6.1,SE,30.09,53,20,10,1,33.5,734.3,0,122,50.6,Waning Gibbous
+32,Partly cloudy,16.9,WNW,29.85,63,45.9,9,6,8.6,794.4,140.2,3,4.3,Waxing Crescent
+13,Partly cloudy,6.1,SSW,30.18,88,13.3,7,1,9.1,1655.6,24.3,22.3,4.4,Full Moon
+22,Partly cloudy,3.6,ESE,29.98,53,23.9,10,1,21.5,1895.9,0,134.4,60.6,Waxing Gibbous
+26,Moderate or heavy rain with thunder,16.9,WSW,29.85,89,29.3,10,1,5,2723.7,0,28.8,50.6,Waxing Crescent
+26.3,Patchy rain possible,10.1,WSW,29.91,88,29.7,9,1,16.3,273.7,16.3,0.8,0.2,Waning Crescent
+26,Partly cloudy,13,SE,29.88,89,29.8,7,1,8.6,1295.1,0,49.4,26.7,Waning Crescent
+12,Cloudy,6.8,NNE,30.04,20,11.6,10,1,14.4,2296.5,28.3,80.2,8.8,Waxing Gibbous
+27,Patchy light rain with thunder,3.6,E,29.83,70,28.2,9,9,7.5,867.8,73,12.5,2.9,Waning Crescent
+24.4,Partly cloudy,14.4,WSW,29.86,62,25.8,10,1,27.2,307.1,8.9,1.1,0.2,Waxing Crescent
+15.2,Sunny,5,NNW,30,61,15.2,10,5,9.2,407.2,23.6,8.6,3.6,Waxing Gibbous
+26,Light rain,3.6,ENE,29.83,94,28.2,10,1,19.4,270.4,42.2,5.7,4.2,Waning Gibbous
+17,Partly cloudy,20.2,SW,30.03,88,17,10,1,27.6,227,72.2,3.2,1.7,Last Quarter
+24,Partly cloudy,6.1,E,30.06,83,26,10,1,16.2,250.3,33.6,2.6,2.7,Waning Gibbous
+11.9,Partly cloudy,3.6,NNE,29.78,94,11.9,10,1,4.3,260.4,18.4,0.3,0,Waning Crescent
+26,Partly cloudy,6.8,SE,29.71,94,29,10,1,6.9,207,14,0.4,0.5,Waning Crescent
+30,Clear,6.1,NE,29.88,66,33.3,10,1,10.2,200.3,113,0.2,0.4,Waxing Gibbous
+29.2,Clear,17.6,ESE,29.88,42,29.4,10,1,29,433.9,59.4,76.1,30.3,Waxing Crescent
+23,Mist,3.6,N,29.77,61,23.2,3,1,3.8,1014.7,47.9,22.3,13.1,Waning Gibbous
+8,Partly cloudy,6.1,ESE,30.09,81,7.5,7,1,10.6,2349.9,26.5,36,15.3,Waning Crescent
+11,Clear,6.1,E,30.24,82,8.7,5,1,30.4,210.3,101.6,0.3,0.3,Waning Crescent
+25.8,Patchy rain possible,9.7,SW,29.91,78,28.1,10,1,17.3,867.8,5.5,5.5,2.1,Waning Gibbous
+16,Clear,3.6,N,30.06,59,16,10,1,11.3,227,32.5,7.9,0.7,First Quarter
+9,Clear,19.1,WSW,29.85,87,6.5,10,1,25.4,257,41.8,18,5.5,Waxing Crescent
+22.7,Light rain shower,5.4,SSE,29.86,95,25.1,10,1,11.3,413.9,0.1,1.2,0.6,Waning Crescent
+1,Partly cloudy,25.9,W,29.88,86,-4.8,10,1,39.7,243.7,57.9,2.1,0.5,Full Moon
+17,Partly cloudy,6.8,ENE,30.24,77,17,10,1,15.1,460.6,35.8,4.1,3.9,Full Moon
+3.1,Clear,6.5,NNE,30.21,87,1.3,10,1,13.6,317.1,32.5,2.3,0.1,Waxing Crescent
+9,Partly cloudy,28.1,SW,30.06,87,5,10,1,50.3,230.3,68.7,4,0.9,Waning Crescent
+11,Light rain,6.8,ESE,29.12,87,10,10,1,15.6,270.4,29.7,21.4,1.6,Waxing Crescent
+26,Partly cloudy,11.2,WSW,29.91,94,29.1,10,1,15.7,330.5,23.3,0.1,0.1,Waning Crescent
+30,Partly cloudy,13,WSW,29.83,84,35.6,8,7,16.2,390.5,28.6,0,0,New Moon
+1,Clear,25.9,NW,30.27,37,-3.6,10,1,34.2,330.5,62.2,17,17.4,Waning Gibbous
+20,Sunny,6.1,WNW,30.45,43,20,10,7,18,347.1,107.3,0.7,0.5,Waxing Gibbous
+27,Clear,13,ENE,29.94,42,28.7,10,1,24.5,367.2,40.4,66.5,12.8,Waning Gibbous
+17,Clear,3.6,SE,29.94,72,17,10,1,9,794.4,0,66.5,7.3,Waning Crescent
+25,Patchy light rain with thunder,6.1,NNE,29.8,94,27.1,19,1,23.3,168.6,32.2,0.1,0.1,Waning Crescent
+28,Clear,6.1,N,29.8,58,26.2,4,1,12.9,363.8,17.5,0.2,0.2,Waning Crescent
+27.7,Patchy rain possible,38.5,ENE,29.77,81,31.8,10,1,51.8,200.3,65.8,0,0.3,Waxing Crescent
+22,Clear,3.6,NNE,30.03,78,24.6,10,1,3.2,741,0.1,25.4,0.5,Waxing Crescent
+-7,Clear,3.6,SW,29.83,86,-9.6,10,1,5.8,293.7,64.4,9.4,56.7,Waxing Gibbous
+20,Clear,6.8,S,30,68,20,10,1,3.9,2002.7,0,42.8,3,Waxing Crescent
+25,Clear,5.8,E,29.88,82,27.2,10,1,8.2,201.9,22,0.1,0.2,New Moon
+24,Partly cloudy,19.1,ENE,30,89,26.1,10,5,40.6,223.6,57.2,0.1,0.3,Waning Gibbous
+22,Partly cloudy,3.6,WNW,30.21,88,24.5,10,1,5.9,360.5,23.6,21.4,3.9,Waning Gibbous
+-3,Freezing fog,6.1,W,30.03,100,-5,0.2,1,8.3,727.7,0.1,38.4,0.1,Waning Crescent
+29,Mist,11.2,W,29.74,66,29.6,3.5,8,14,370.5,43.6,9.9,8.6,Full Moon
+1,Clear,9,SSE,30.39,75,-0.8,10,1,12.1,500.7,9.9,51.4,6.6,Waxing Gibbous
+22,Clear,6.1,E,30.21,61,24.5,10,1,6.4,303.8,7.5,1.7,2.6,Waxing Crescent
+20,Patchy rain nearby,7.6,E,29.92,93,20,9,1,15.9,270.4,23.3,1.5,0.3,Waning Crescent
+26.1,Partly cloudy,11.2,NNE,29.93,74,28.3,10,1,17.3,267,42.2,0.4,0.1,Waxing Gibbous
+26,Partly cloudy,4,S,29.8,94,28.9,9,1,14.5,447.3,11,7.8,4.7,Waxing Gibbous
+31,Overcast,13,E,29.83,38,33.8,1.5,7,21.5,580.8,61.5,4,2.7,Waning Crescent
+27.5,Clear,13,NE,29.97,70,30,10,1,17.5,303.8,114.4,0.4,1,Waning Crescent
+28,Overcast,19.1,SSE,29.77,84,35.9,10,6,27.5,410.6,51.5,5.5,4.4,Waxing Crescent
+29,Partly cloudy,19.1,ESE,29.91,70,34.4,10,1,21.3,293.7,78.7,2.9,3.7,Waxing Gibbous
+25.9,Moderate or heavy rain shower,9.7,S,29.67,93,29.8,7,1,16.6,527.4,9.4,12.9,4.7,Waxing Gibbous
+21,Mist,3.6,N,30,78,21,2.5,1,7,2456.7,0,35.6,19.6,First Quarter
+32,Partly cloudy,4,NW,29.85,59,39.4,10,7,21,186.9,60.1,0.6,0.4,Waxing Gibbous
+3,Overcast,11.2,NNE,29.88,65,-1.5,10,1,29.1,253.7,68.7,3.2,1.3,Waxing Crescent
+21,Partly cloudy,28.1,SSW,30.06,64,21,10,1,31.4,367.2,43.3,2,1.9,First Quarter
+25,Partly cloudy,3.6,N,29.94,94,27.7,10,1,22.3,310.4,59.4,0.2,0.2,Waxing Crescent
+28.3,Sunny,19.8,WNW,29.85,78,32.7,10,7,26.6,212,74.4,0.3,0.5,New Moon
+27,Partly cloudy,6.1,E,29.74,89,30.7,10,1,8.5,8758.6,0,87.7,62,Waxing Gibbous
+25.8,Patchy rain possible,3.6,SSE,29.72,88,28.9,10,1,10.8,200.3,16.1,0.8,0.4,Waxing Gibbous
+14.5,Clear,4.3,SW,29.97,45,15,10,1,8.6,300.4,2.4,21.6,2.6,Waning Gibbous
+26.8,Clear,14,ESE,30.01,66,28.6,10,1,18,273.7,75.8,2.3,3.1,Waning Gibbous
+7,Sunny,9,SE,30.45,66,4.3,10,3,17,196.9,52.2,0.9,0.3,Waxing Gibbous
+14,Clear,6.8,NE,30.12,72,13.8,10,1,12.5,257,46.5,20.4,2.6,Waning Gibbous
+-5.4,Clear,9,SSW,30.17,58,-9.4,10,1,18.9,205.3,58.7,2.4,0.6,Waning Gibbous
+33,Partly cloudy,5.8,NW,29.77,46,35.9,10,11,8.2,190.3,2.9,0.1,0,Waxing Crescent
+19.7,Partly cloudy,19.4,S,29.91,77,19.7,10,5,22.4,243.7,59.4,5.3,3.4,Waning Crescent
+-3,Clear,4,W,29.85,93,-4.2,10,1,11.2,494,37.6,32.2,2.7,Waxing Crescent
+27.1,Patchy rain possible,17.6,ESE,29.87,75,29.9,10,1,23.8,393.9,98.7,0.2,0.2,Waxing Crescent
+26,Partly cloudy,6.8,N,29.77,89,29.1,10,1,13.2,894.6,0,21.1,9.3,Waxing Gibbous
+19,Light rain,15.1,S,29.77,78,19,10,1,27,237,39.7,12.2,9.7,Waxing Crescent
+38.2,Sunny,9.4,E,29.61,25,38.9,10,9,14.3,647.5,123,2.8,1.1,Waning Gibbous
+32,Partly cloudy,6.8,WNW,29.8,63,42,10,7,10.4,1388.6,231.7,4.8,8.8,First Quarter
+9,Mist,6.8,SE,30.12,93,9.1,6,1,14,360.5,29.3,28.5,2.2,Waxing Gibbous
+9,Clear,16.9,W,29.65,87,6.5,10,1,27.3,260.4,62.2,3.9,1.2,Last Quarter
+17,Partly cloudy,15.1,NNE,30.33,45,17,10,1,16.6,300.4,40.8,2.8,0.4,Waning Gibbous
+11,Light rain,6.8,ESE,29.12,87,9.9,10,1,16.3,263.7,27.9,20.2,1.7,Waxing Crescent
+29,Partly cloudy,6.8,W,29.85,84,34.7,10,1,19.8,220.3,48.6,0.9,0.5,Waning Crescent
+19,Sunny,20.2,S,30,49,19,10,4,8.9,3017.4,1.5,61,7.9,Waxing Gibbous
+21,Clear,22,ENE,29.94,64,21,10,1,9.5,350.5,39,6.6,2.3,Waxing Crescent
+26,Partly cloudy,3.6,NE,29.85,100,28.6,9,7,24.1,257,41.5,3.2,8.4,Waning Gibbous
+11,Clear,3.6,NW,30.33,71,10.3,10,1,15.8,230.3,11.8,6,0.4,Waxing Crescent
+19,Sunny,28.1,W,29.71,35,19,10,5,33,217,38.3,1.1,2.7,Waxing Crescent
+2,Mist,4,W,30.21,80,-0.1,5,1,13.5,534.1,5.8,24,1.6,Waning Gibbous
+14,Partly cloudy,6.1,ESE,30.16,72,13.5,10,1,19.3,1241.7,0,53.5,39.6,Waxing Crescent
+26,Partly cloudy,11.2,SW,29.83,94,27.6,8,1,18.4,16235.4,0,170,50.1,Waxing Crescent
+21.6,Patchy rain nearby,4.7,ESE,29.92,77,21.6,9,1,9.8,240.3,24.7,0.9,0.2,Waning Gibbous
+20,Partly cloudy,9,SSE,29.85,73,20,10,1,9,474,2,21.3,0.5,Full Moon
+11.1,Clear,4.3,ESE,30.14,64,11.2,10,1,7.8,3845.2,20.9,23.3,7,Waning Gibbous
+27,Partly cloudy,20.2,ENE,29.76,84,30.3,24,1,49.5,200.3,60.1,0,0.3,New Moon
+19,Clear,3.6,S,30.09,100,19,10,1,15.1,230.3,25.4,15.6,2.7,Waning Crescent
+25.2,Partly cloudy,10.8,WSW,29.93,85,27.7,10,1,14.1,373.8,23.3,0.1,0.1,Waning Crescent
+21.2,Fog,3.6,NE,29.86,98,21.2,0,1,6.1,310.4,0.7,1.2,0.2,Waxing Crescent
+32,Partly cloudy,13,SE,29.83,63,39.8,10,7,17.9,277,46.5,8.3,1,Waxing Crescent
+21,Partly cloudy,3.6,N,29.91,100,21,7,1,6.8,934.6,21.5,9,3.2,Waning Crescent
+26.6,Clear,14.8,SSW,29.92,38,26.4,10,1,25.5,607.5,1.5,109.7,11.8,Waning Gibbous
+16,Partly cloudy,6.8,NNE,30.18,94,16,10,1,3.2,1081.5,44.7,6.7,3.4,Waning Crescent
+-3,Clear,15.1,N,30.21,54,-7.7,10,1,26.9,1028.1,0.7,66.5,69.6,Last Quarter
+13,Clear,11.2,SSE,30.15,77,11.6,10,1,31.8,247,69.4,9.4,2.6,Waxing Gibbous
+4,Overcast,6.8,NNW,30.27,87,3.6,10,1,14,373.8,0,49.4,3.6,New Moon
+27.8,Partly cloudy,12.6,SE,29.85,75,31.1,10,1,16.7,360.5,46.5,0,0,Waxing Gibbous
+31,Clear,6.8,N,29.77,66,41,10,6,10.4,841.1,145.9,57.6,106.8,Waning Crescent
+16.1,Patchy rain possible,3.6,WSW,30.03,94,16.1,10,1,6,727.7,3.5,3.7,0.8,Waning Crescent
+19.2,Clear,5.4,SSW,30.13,48,19.2,10,1,11.2,263.7,30.8,4.8,0.3,Waning Gibbous
+36.8,Sunny,16.2,E,29.84,6,35.5,10,9,18.6,207,56.5,0.1,0,Waxing Gibbous
+8,Clear,28.1,WSW,29.97,71,4.4,10,1,36.5,267,45.4,12.2,3.1,Full Moon
+4,Clear,11.2,ESE,30.09,81,2.2,10,1,14.1,620.8,0,55.5,11.6,Full Moon
+24,Clear,6.8,ENE,29.89,59,25.4,10,1,10.9,240.3,23.3,0.5,0.2,Waxing Gibbous
+25,Clear,6.8,NE,29.88,44,23.8,10,1,15.1,303.8,37.6,1.3,1,Waxing Crescent
+21.9,Clear,12.6,ENE,29.94,34,21.9,10,1,23.4,1081.5,68.7,4.9,5.2,Waxing Crescent
+22,Clear,16.9,NNE,29.97,88,24.6,10,1,24.1,313.8,62.9,36.7,19.6,Waning Gibbous
+20,Torrential rain shower,19.1,NW,29.71,88,20,10,1,8.6,253.7,36.8,8.2,1,Waxing Crescent
+25,Partly cloudy,6.8,S,29.8,94,27.6,10,1,12.5,1709,32.9,27.8,9.1,Waning Gibbous
+2,Partly cloudy,6.8,SE,29.94,87,0.2,9,1,11.5,1094.8,0,78.1,24.1,Last Quarter
+-27.5,Light freezing rain,3.6,NNE,30.74,94,-31.3,10,1,7.6,303.8,45.8,3.1,2.3,Last Quarter
+4,Clear,3.6,S,30,100,1.7,7,1,18.9,273.7,41.5,11.7,0.9,Waxing Crescent
+13.3,Light rain,3.6,N,30.01,69,12.2,16,5,14.9,223.6,78.7,1.1,0.5,Waxing Crescent
+22,Partly cloudy,15.1,NNW,30.12,53,24.6,10,1,17.6,287.1,35.1,18.5,11.6,Last Quarter
+20.8,Clear,3.6,NE,29.94,72,20.8,10,1,10.8,520.7,16.8,5.1,0.9,Waxing Crescent
+28.7,Light rain shower,25.6,SW,29.74,80,34.1,10,1,42,186.9,51.5,0.2,0.1,Waxing Crescent
+27,Partly cloudy,6.8,SSW,29.91,89,29.5,10,1,21.2,754.4,12.5,4.5,1.8,Waxing Crescent
+28.6,Sunny,15.8,NE,29.81,69,31.8,10,7,21.7,280.4,44.4,0,0.1,Waning Crescent
+30.5,Patchy rain possible,14.8,E,29.86,63,34.5,10,7,19.3,253.7,52.2,3.9,0.7,Waxing Gibbous
+20,Clear,11.2,WNW,30.18,49,20,10,1,31.4,283.7,134.5,0.7,3.5,Waning Crescent
+32,Sunny,15.1,SW,29.85,63,40.6,10,7,37.5,247,48.6,0.1,0.1,Waxing Crescent
+23.4,Clear,12.6,NNE,29.75,43,24.7,10,1,26.3,247,73.7,0.2,0.3,Waning Crescent
+15.5,Overcast,9.4,WNW,30.01,72,15.5,10,1,10.8,210.3,73,1.4,1.1,Full Moon
+16.7,Sunny,3.6,S,30.04,50,16.7,16,4,6.6,233.7,78.7,1.4,0.2,New Moon
+3,Clear,19.1,SE,30.53,75,-0.1,10,1,20.1,440.6,33.6,31.2,5.7,Waning Gibbous
+25,Partly cloudy,6.1,ENE,29.91,94,27.4,10,1,12.4,560.8,14,1.9,1.4,Waxing Crescent
+29,Clear,3.6,E,29.85,75,27.7,4,1,4.5,260.4,12.9,0.1,0.1,Waxing Gibbous
+16,Clear,6.8,NE,30,63,16,10,1,15.8,220.3,39,4.5,0.9,Waning Gibbous
+29.5,Sunny,16.9,NNE,29.8,61,32.4,10,7,20.4,230.3,46.5,0,0.1,Waning Gibbous
+31,Partly cloudy,6.8,ESE,29.81,55,35.9,10,7,13.7,217,64.4,1,2.7,Waxing Gibbous
+31,Overcast,19.1,E,29.74,66,36.7,9,7,20.5,227,34,4.6,4.2,Waning Gibbous
+32,Partly cloudy,15.1,ENE,29.91,52,36.5,10,7,19,227,42.2,2.4,2.8,Waning Gibbous
+-3.2,Heavy snow,3.6,S,30.18,98,-3.2,2,1,10.8,350.5,64.4,1.9,1.6,Waning Gibbous
+24.2,Clear,20.9,N,30,11,23.3,10,1,31.6,270.4,97.3,2,0.8,Waning Crescent
+19,Clear,28.1,W,29.97,40,19,10,1,44,227,73,12.9,2.6,Waxing Crescent
+21.5,Patchy rain possible,6.8,W,29.89,82,21.5,9,1,12.1,2697,4,18.5,8.4,New Moon
+25.1,Mist,8.3,WNW,29.76,94,28.2,2,1,15.2,397.2,5.1,2.6,0.5,First Quarter
+14.1,Clear,6.5,SSE,29.81,50,14.1,10,1,13.6,250.3,42.2,5.4,0.7,Waxing Crescent
+6,Light rain,22,W,29.85,93,4.1,8,1,29.2,233.7,79.4,1.2,0.3,Waxing Crescent
+29,Overcast,19.1,ENE,29.81,79,34.7,24,6,22.8,180.2,28.3,0,0.1,Waxing Gibbous
+29,Clear,19.1,NNE,29.91,45,28.6,10,1,32.6,300.4,32.9,2.7,1,New Moon
+19,Clear,16.9,NW,30.09,64,19,10,1,15.3,243.7,62.9,5,0.9,Waxing Gibbous
+26,Moderate or heavy rain with thunder,24.1,W,29.8,89,27.6,8,6,19.8,257,31.5,0,0.1,Waning Crescent
+3,Clear,6.8,W,29.97,87,0.4,10,1,19.7,273.7,66.5,5.5,0.6,Full Moon
+17,Clear,9,E,29.97,72,17,10,1,11.2,310.4,0.3,19.2,2.2,Waxing Crescent
+19,Patchy rain nearby,9.7,E,29.98,67,19,10,1,17.8,674.3,35.8,16.3,18.6,Last Quarter
+24,Clear,9,ENE,29.97,83,26,10,1,18.3,1041.4,23.6,29.1,4.2,Full Moon
+25,Partly cloudy,15.1,NE,29.94,89,26.5,6,1,28.8,253.7,75.8,12.2,14,Waxing Gibbous
+-4,Partly cloudy,6.8,SSW,30.5,86,-8,10,1,20.4,287.1,57.2,7.5,2.5,Waxing Gibbous
+1,Light sleet,6.1,SSW,29.62,100,-0.3,5,1,6.8,273.7,36.5,13.4,1,Waning Gibbous
+33,Partly cloudy,6.1,N,29.62,80,42.9,10,1,15.8,267,131.6,0.2,2.9,Waning Gibbous
+30,Partly cloudy,24.1,E,29.97,55,34.8,9,7,40,217,91.6,2.6,6.9,Waxing Gibbous
+-11.4,Partly cloudy,11.2,NW,30.4,61,-19.7,16,1,23.6,357.2,40.1,16.3,18.8,Waxing Gibbous
+35,Partly cloudy,22,ESE,29.7,53,44.4,10,8,20.4,270.4,73.7,2.2,7.3,Full Moon
+28,Partly cloudy,25.9,E,29.8,74,30.4,10,7,29.3,233.7,47.9,1,1.4,New Moon
+4,Clear,3.6,N,30.42,87,2.7,10,1,10.8,327.1,29.7,16.6,2.8,Waxing Crescent
+13,Clear,11.2,E,30.53,67,13.6,10,1,18.4,494,62.9,24.7,6.9,Waning Gibbous
+24,Partly cloudy,9,ESE,29.97,89,26.5,6,1,12.3,974.7,0.3,45.9,21.2,Waxing Crescent
+4,Clear,8.3,S,30.09,40,1.9,10,1,15.7,290.4,73,9.6,1.7,Waning Crescent
+8,Clear,13,W,29.83,71,5.4,10,1,28.7,240.3,75.1,2.4,0.6,Waxing Gibbous
+9.9,Clear,20.2,NNW,30.06,43,7.2,10,1,32.6,247,78.7,2.3,4.2,Waning Gibbous
+22,Light rain shower,3.6,N,30,88,24.6,10,1,13.2,290.4,15.4,1.3,0.1,Waning Crescent
+2,Clear,9,W,29.97,64,-1.8,10,1,23.3,297.1,60.8,6.6,1,Waxing Crescent
+24.9,Partly cloudy,9,WSW,29.85,71,26.5,10,1,15.6,474,45.1,8.9,3.5,Waning Gibbous
+30.2,Clear,3.6,NW,29.68,69,35.1,10,1,5,260.4,60.1,1.2,1.4,Waning Crescent
+17,Light rain,15.1,SE,30.26,83,17,11,5,12,787.7,75.1,31.9,49.1,Waxing Gibbous
+20.7,Clear,7.2,NNW,29.88,59,20.7,10,1,15.1,807.8,4.4,10.6,0.9,Waxing Crescent
+21.7,Clear,3.6,SE,29.96,70,21.7,10,1,4.1,433.9,48.6,2.2,0.4,Waxing Gibbous
+27,Partly cloudy,20.2,ESE,29.85,79,30.3,10,1,27.4,480.7,20.9,3.8,2.4,Waning Crescent
+28,Partly cloudy,3.6,ESE,29.88,84,31.8,9,6,29.5,195.3,44,0.5,0.4,Waning Crescent
+26,Overcast,11.2,NE,29.97,16,24.5,3.5,1,34.8,403.9,68.7,2.8,1.5,New Moon
+27.4,Clear,19.8,SW,29.86,79,30.8,10,1,24.9,417.2,52.2,0.1,0.2,Waxing Gibbous
+26,Clear,24.1,NNE,29.91,42,27.7,10,6,25.2,196.9,62.9,0.8,0.3,Waning Crescent
+26.3,Patchy rain possible,10.1,WSW,29.9,87,29.8,9,1,16.2,370.5,29,1.5,0.5,Waning Gibbous
+25,Clear,16.9,E,30,47,25.3,10,1,29,233.7,42.9,0.2,0.1,First Quarter
+1,Partly cloudy,3.6,E,30.09,93,0.3,10,1,10.8,627.5,0,50,17.9,Waning Crescent
+9,Overcast,13,N,30.24,81,8.5,10,4,6.2,230.3,19.5,5,1.6,Waning Gibbous
+35,Clear,19.1,NW,29.53,56,45.4,10,1,30.6,253.7,80.8,22.3,14.4,New Moon
+18,Partly cloudy,16.9,W,29.91,73,18,6,4,31.8,223.6,79.4,0.2,0.1,Waxing Crescent
+25,Clear,19.1,N,29.85,69,26.2,10,1,47.6,220.3,47.2,1.7,0.6,Waning Crescent
+15,Patchy rain possible,4,ESE,30.08,55,15,10,1,4.6,201.9,59.4,3.8,8.6,Waning Gibbous
+12,Partly cloudy,6.1,NE,30.36,71,12.5,10,1,13.3,474,43.3,29.1,5.8,Waxing Gibbous
+25,Partly cloudy,6.8,SW,29.83,100,27.8,10,1,11.3,353.8,25.4,2,0.5,Waning Crescent
+16,Moderate rain,43.9,SSE,29.94,100,16,5,1,59.2,213.6,77.3,3.1,2.6,Waxing Crescent
+14,Light rain,46.1,S,30.09,100,14.7,0,1,5.4,220.3,37.2,9,4,Waning Crescent
+23.2,Clear,6.8,SW,29.85,81,25.3,10,1,13.8,293.7,40.8,0.6,0.1,Waning Gibbous
+29,Partly cloudy,11.2,SSE,29.88,79,33.6,10,6,28.4,313.8,26.1,4.2,2.6,Waning Crescent
+15,Clear,6.1,E,30.06,100,15.5,10,1,9.7,220.3,4.3,14.6,0.4,Waning Gibbous
+-1,Clear,19.1,SSW,29.77,74,-4.7,10,1,26.3,313.8,52.2,17,5.8,Waxing Crescent
+22.1,Partly cloudy,4,NNE,29.97,84,24.6,10,1,1.8,1028.1,16.5,7.3,1.3,Waning Crescent
+21,Clear,15.1,SW,29.94,43,21,10,1,14.2,243.7,37.9,20.4,15.5,Waning Crescent
+4,Clear,9,E,29.62,75,0.7,10,1,29.5,233.7,75.1,0.4,0.2,Waning Crescent
+33,Patchy light rain with thunder,15.1,SSE,29.8,67,51.9,10,6,7.6,674.3,137.3,9.3,16.2,Waning Gibbous
+32,Partly cloudy,11.2,SE,29.94,63,39,10,8,18.7,237,31.5,1,1.3,New Moon
+12,Clear,22,W,29.91,41,10.1,10,1,25.6,363.8,62.9,9.5,1.9,Waning Crescent
+8,Clear,3.6,WSW,30.18,93,7.6,10,1,8.2,243.7,34,4.6,1,Waxing Crescent
+-16.4,Clear,13.3,NNW,30.56,67,-24.1,10,1,19,377.2,53.6,12.3,18.1,Waxing Gibbous
+2,Partly cloudy,16.9,WNW,29.83,87,-2.6,10,1,29.9,260.4,47.9,2.9,0.8,Waning Crescent
+4,Light rain,11.2,SSE,29.65,93,3.2,10,1,18.4,417.2,39.7,16.6,1.1,Waning Gibbous
+22,Partly cloudy,6.8,WSW,29.94,94,24.6,9,1,4.9,1161.6,0,8.6,3.1,Waxing Gibbous
+32.9,Clear,3.6,ESE,29.73,25,31.5,10,1,6.8,243.7,40.4,0.3,0.5,New Moon
+19,Clear,6.8,SSE,30.09,64,19,10,1,4.7,307.1,47.9,15.4,3,Waning Crescent
+15,Clear,6.1,N,30.15,77,15.8,10,1,4.9,794.4,0,24.3,15.1,Waning Crescent
+5,Light rain,4,NNW,29.65,93,3,10,1,13.1,237,66.5,4.5,0.7,New Moon
+0,Light snow,13,E,29.23,100,-4.9,3.5,1,26.6,320.4,50.1,12.9,3.7,Waxing Gibbous
+25,Partly cloudy,6.8,S,29.94,94,27.5,10,1,22.1,433.9,35.1,3.4,2.6,Waxing Gibbous
+14,Overcast,3.6,N,29.88,72,13.8,10,1,12.6,293.7,40.4,14.9,1.9,Full Moon
+26,Partly cloudy,16.9,SSE,30.15,61,27.4,10,1,27.6,257,25.8,1.2,1,Waxing Crescent
+33,Sunny,13,SSW,29.85,47,37,8,7,31.2,373.8,52.9,0.8,1.5,Waning Crescent
+20,Clear,6.8,WSW,30,94,20,10,1,12.6,410.6,30.4,19.2,3,Waning Crescent
+28,Partly cloudy,6.1,SSE,29.83,84,33.7,10,1,6.5,6088.3,0,44.6,60.6,Waxing Gibbous
+25,Sunny,22,E,30.03,61,25,10,10,29.2,227,68,3.7,13.1,Waning Crescent
+27.2,Partly Cloudy,11.2,ENE,29.95,73,29.9,10,1,15.2,333.8,107.3,0.3,0.7,Waning Crescent
+5.9,Patchy rain possible,28.8,NNW,29.95,68,1.3,10,1,46.9,240.3,70.8,6,2,Waxing Gibbous
+1.7,Clear,6.1,ESE,29.9,66,-0.1,16,1,11,343.8,37.2,14.6,0.2,Waning Crescent
+12,Partly cloudy,6.8,S,29.85,94,11.4,10,1,11.9,257,19,9.7,15.3,Waning Crescent
+29,Partly cloudy,15.1,SE,29.94,75,32,10,6,22.3,240.3,81.5,2.4,2.9,Full Moon
+23,Partly cloudy,6.1,E,29.91,83,25.1,10,1,10.1,253.7,50.1,0.3,0.2,Waning Gibbous
+24.3,Clear,17.3,NNW,29.98,19,23.4,10,1,29.7,283.7,87.3,2.4,1.6,Waning Crescent
+16,Clear,9,ENE,30.3,18,16,10,1,25.3,640.9,0,94.6,73.4,Waning Crescent
+10,Clear,6.1,E,29.35,76,8.7,10,1,17.4,350.5,32.2,24,2.5,New Moon
+31,Partly cloudy,11.2,NNE,30.06,38,33.1,10,7,13.7,223.6,53.6,1.4,1,Waxing Crescent
+3,Light rain,11.2,ESE,29.47,93,-0.1,10,1,16.9,327.1,26.8,8.5,1.3,Waxing Crescent
+-2,Light snow,67,W,29.32,80,-11.5,2,1,78.2,237,101.6,0,0.2,Waning Gibbous
+27,Partly cloudy,9,N,30.04,45,27.6,10,6,16.2,297.1,81.5,8.2,23.8,Waning Crescent
+22,Clear,3.6,NE,29.77,41,22.1,10,1,11.2,190.3,57.9,3.1,5.7,Waning Crescent
+25,Partly cloudy,4,S,29.85,100,27.9,10,1,10.8,413.9,24.7,1.9,0.9,Waning Crescent
+27,Partly cloudy,6.1,N,29.85,84,31.3,10,1,30.6,1188.3,0,28.1,13,New Moon
+18,Clear,11.2,SE,30.12,60,18,10,1,19.7,293.7,52.9,11.7,1.9,Waning Gibbous
+28,Partly cloudy,16.9,E,30,70,32.1,10,6,50.8,208.6,69.4,0.4,0.5,Waxing Gibbous
+23,Partly cloudy,6.8,WSW,29.97,78,25.2,10,1,10.6,640.9,10.7,3,1,Waning Gibbous
+20,Moderate or heavy rain with thunder,6.1,S,30.12,94,20,10,1,10,454,7.3,3.6,0.9,Waxing Gibbous
+13.5,Clear,3.6,WNW,29.9,38,13.5,10,1,6,380.5,117.3,1.5,1,Waning Crescent
+20,Partly cloudy,3.6,N,30.09,94,20,10,1,12.9,534.1,4.6,5.4,0.8,Waxing Gibbous
+18.7,Clear,8.6,NE,29.92,51,18.7,10,1,18.1,233.7,59.4,0.9,0.5,Waxing Gibbous
+23.5,Clear,11.5,E,29.93,39,24.5,10,1,21.2,1201.6,57.2,6.1,6,Waxing Crescent
+15,Light rain,15.1,SSE,30.15,82,14.5,10,1,13.7,393.9,0.2,80.9,3.8,Last Quarter
+23,Partly cloudy,9,NNW,29.88,78,25.1,10,1,12.6,250.3,85.8,2,0.7,First Quarter
+23,Partly cloudy,20.2,SSW,30.09,69,25.1,10,1,32.9,313.8,20.6,1.8,1.5,Waxing Gibbous
+20.6,Partly cloudy,9.7,SSE,30.05,63,20.6,10,1,12.6,343.8,60.8,1.9,1.8,Waxing Gibbous
+30,Partly cloudy,11.2,NE,29.74,84,36.9,10,9,27.5,190.3,20.6,0,0.1,Waxing Gibbous
+30,Partly cloudy,6.8,NNW,29.77,59,34.1,10,7,8.7,207,65.8,0.9,0.4,Waxing Gibbous
+8,Clear,6.1,NNE,30.21,76,8,10,1,13.3,1348.5,0,94.6,11.4,Waxing Crescent
+27,Clear,6.8,WSW,29.8,89,29.5,10,1,26,198.6,73.7,0.4,0.9,Waning Gibbous
+17.1,Clear,6.1,NNW,30.02,69,17.1,10,1,12.9,267,13.8,2.6,1.3,Waxing Crescent
+1,Light rain,20.2,WSW,29.21,93,-5,10,1,41.3,240.3,79.4,1.3,0.2,Waxing Crescent
+11.4,Clear,9.7,ENE,30.12,28,10.4,10,1,20.4,4219.1,0,137.1,17.9,Waning Gibbous
+11,Overcast,3.6,NE,30.24,100,11.4,10,4,1.3,196.9,45.8,1.3,0.5,Waning Crescent
+10,Partly cloudy,3.6,SSW,30.15,87,8.8,10,1,15.4,410.6,39,12,0.4,Waning Gibbous
+27,Patchy light rain with thunder,15.1,NE,30.06,51,27.5,10,1,18.1,674.3,11.6,31.2,3.3,Waning Crescent
+20,Partly cloudy,3.6,N,29.85,68,20,10,1,19.8,212,34.7,4.6,0.9,Waxing Crescent
+-2,Light snow,4,SSW,30.15,93,-5.8,10,1,17.5,260.4,70.1,4.4,1.7,Waxing Crescent
+24,Partly cloudy,3.6,ENE,29.68,100,26,10,1,14.9,168.6,4,0.3,0.1,Waxing Crescent
+22,Partly cloudy,25.9,N,30.18,69,24.6,10,6,11.2,227,37.2,0.4,6.5,Waning Gibbous
+25,Patchy light rain with thunder,6.1,SW,29.77,100,27.8,10,1,6.7,297.1,51.5,2.1,1,New Moon
+21,Clear,6.8,NNW,30.09,69,21,10,1,16.1,237,120.2,0.3,1.3,Waning Crescent
+22.5,Sunny,11.9,WSW,29.92,15,22.3,10,9,24.9,220.3,40.8,2.9,0.7,Waxing Crescent
+29,Partly cloudy,19.1,NNE,30.03,70,30.2,10,6,26.3,191.9,20.2,0.2,0.1,Waxing Gibbous
+22.4,Sunny,16.2,NNE,29.92,37,24,10,9,18.6,293.7,28.6,0.6,0.7,Waning Gibbous
+14,Clear,6.8,N,30.3,38,13.3,10,1,18.9,347.1,3.4,50,26.5,Waxing Crescent
+21,Clear,6.1,NE,30,46,21,10,1,18.7,247,64.4,3,0.4,Waning Gibbous
+31,Partly cloudy,15.1,ENE,29.9,71,46.6,10,6,21,203.6,45.4,9.2,8.7,Full Moon
+21,Partly cloudy,6.1,SE,30.03,88,21,10,1,10.8,178.6,16.5,0.5,0.3,Waxing Gibbous
+0.4,Clear,5.4,SSW,30.14,27,-1.3,10,1,11.3,2296.5,55.8,20.9,1.3,Waxing Gibbous
+12,Clear,6.8,ENE,30.18,71,11.4,10,1,14.9,934.6,0,27.4,2.6,Waning Crescent
+9,Partly cloudy,3.6,ESE,29.94,76,8.1,10,1,12.4,867.8,0,50.7,25.5,Waning Crescent
+16,Partly cloudy,6.8,S,29.65,94,16,10,1,13.7,212,26.1,5.5,1.2,Waning Gibbous
+10,Clear,29.9,SSW,29.97,54,6.7,10,1,42.6,347.1,11.3,57.6,2.6,Waxing Gibbous
+19.8,Partly cloudy,13.7,SSW,29.83,77,19.8,10,5,15.7,270.4,50.8,7.5,3.9,Full Moon
+27,Partly cloudy,6.8,SW,29.85,84,30.8,10,1,14.3,560.8,12.9,5.7,2.5,Waning Gibbous
+25.6,Sunny,11.2,E,29.92,30,25.3,16,6,6.1,203.6,98.7,0.8,0.2,Waning Crescent
+11,Partly cloudy,8.3,S,30.04,79,10.2,10,1,15.2,240.3,53.6,6.7,12,Waning Gibbous
+14,Partly cloudy,15.1,SSE,29.95,59,13.5,24,5,12.2,205.3,56.5,0.8,0.1,Waxing Crescent
+32,Clear,6.1,N,29.8,63,42.6,10,1,9.7,801.1,121.6,61,124,Waning Crescent
+11,Clear,6.1,ESE,30.24,54,11.2,10,1,7.9,520.7,15.2,25.7,1.2,Waxing Crescent
+25,Moderate rain,13,S,29.94,65,26.7,10,1,26.5,250.3,52.2,20.7,4.9,Waning Gibbous
+24,Clear,19.1,ENE,29.74,83,25.8,10,1,27,257,24,0.8,0.4,Waxing Crescent
+23,Clear,16.9,NNW,30.06,57,24.9,10,1,38.6,240.3,98.7,9.6,8.7,Waning Gibbous
+19,Clear,9,E,30.12,88,19,10,1,18.7,250.3,29.3,21.9,1.2,Last Quarter
+29,Partly cloudy,19.1,W,29.83,79,34.6,10,1,28.4,487.3,8.9,8.8,3.3,Waning Crescent
+14,Sunny,4,E,30.18,88,13.9,10,4,8.5,195.3,26.1,1.6,1.2,Full Moon
+0,Light snow,3.6,S,30.24,80,-2.5,10,1,12.1,337.1,52.9,7.5,2,Waning Gibbous
+24,Partly cloudy,3.6,N,29.62,94,26,10,1,4.8,198.6,8.9,9.6,6.7,Waning Crescent
+22,Clear,28.1,SSW,29.91,65,23.9,10,1,8.3,223.6,88,4.8,5.1,Waxing Crescent
+14,Overcast,6.1,SSW,30.37,63,13.3,8,3,12.4,2483.4,29.7,102.8,78.2,Waning Crescent
+19.4,Clear,10.4,E,30,37,19.4,10,1,21.2,1068.1,44,4.9,5.2,Waning Gibbous
+6,Light rain,4,WNW,29.91,100,3.9,10,1,14.2,260.4,55.1,4.1,2.4,Waxing Crescent
+23,Clear,6.8,NE,30.15,69,25,8,1,20.8,230.3,105.9,0.3,6.6,Waxing Gibbous
+28,Partly cloudy,15.1,ESE,29.91,79,31.5,10,1,29.6,212,53.6,1.4,0.3,Waxing Crescent
+30,Partly cloudy,6.8,NNE,29.65,89,35.4,10,1,13,220.3,15,25.4,10.1,Waning Gibbous
+28,Clear,3.6,N,29.88,55,26,10,1,3.8,460.6,27.5,6.3,0.6,Waning Crescent
+2,Overcast,11.2,S,30.18,93,-1.3,10,1,20.6,337.1,43.6,16.1,1.1,Waxing Gibbous
+29,Partly cloudy,22,SE,29.88,70,33.4,10,6,29.2,237,56.5,0.6,0.8,Waning Crescent
+21,Mist,3.6,N,30,78,21,2.1,1,6.3,1789.1,5.5,43.9,16.5,Waning Gibbous
+25.7,Clear,5.4,E,29.92,80,28.1,10,1,7.8,247,21.6,0.3,0.1,New Moon
+22,Partly cloudy,3.6,N,30.03,78,24.6,10,1,12.9,1161.6,26.5,7.2,3.6,Full Moon
+12,Mist,11.2,W,30.15,82,10.4,2.5,1,26.1,794.4,94.4,17.8,15.7,Waning Crescent
+25,Patchy light rain with thunder,9,NE,29.91,89,26.5,10,1,3,514,8.9,2.3,0.2,Waxing Crescent
+27,Overcast,20.2,ESE,30,84,28.9,10,6,34.9,213.6,64.4,1.2,2,Waxing Crescent
+-9,Partly cloudy,25.9,SSE,29.62,79,-17.2,10,1,37.3,280.4,69.4,5.4,2.8,Waxing Crescent
+17,Partly cloudy,19.1,ENE,30.3,55,17,10,1,26.3,2216.3,34.3,11,5.8,Waxing Crescent
+19,Overcast,6.8,NE,30.15,78,19,10,1,10.1,727.7,21.3,16.8,8.6,Waxing Crescent
+29,Partly cloudy,3.6,S,29.77,84,34.1,10,7,13.7,357.2,17.9,7.7,8.5,Waxing Gibbous
+23,Partly cloudy,28.1,NW,29.94,69,25.2,10,1,2.9,198.6,24.3,5.7,0.1,Waning Crescent
+28.5,Sunny,14.4,WNW,29.8,73,32.2,10,7,20.3,400.5,21.5,6.3,3.9,Waning Crescent
+28,Partly cloudy,22,E,29.8,70,31.5,10,6,28.5,213.6,81.5,1.7,1.8,First Quarter
+30,Sunny,16.9,S,29.77,79,33.9,8,7,26.5,480.7,101.6,4,10.4,Last Quarter
+23,Mist,15.1,S,30.15,57,24.5,7,6,22.3,988,155.9,5.3,95.4,Last Quarter
+29,Partly cloudy,19.1,NNE,29.88,75,33.5,10,6,23.8,208.6,27.2,0.5,0.1,Waxing Crescent
+6,Partly cloudy,6.8,SSE,28.82,81,4.2,10,1,14.6,270.4,30.4,22.6,13,Waning Gibbous
+8.5,Patchy rain possible,5,NW,30.02,92,8,10,1,9,173.6,15,4,2,Waxing Crescent
+28,Clear,15.1,WSW,30,20,26.5,10,1,30.9,217,52.2,0.3,0.4,Waxing Gibbous
+23.3,Clear,9,WNW,29.84,91,25.6,10,1,16.9,377.2,67.2,0.9,0.4,New Moon
+25,Light rain,9,N,29.65,94,28.5,10,1,3.2,460.6,2,3.4,0.5,Waning Crescent
+20,Light rain,6.8,N,29.91,100,20,6,4,6.1,754.4,3.8,58.3,58.2,Waning Crescent
+2,Clear,3.6,N,29.59,69,0.7,10,1,10.6,480.7,21.1,20.9,3.4,Waxing Crescent
+18,Clear,6.8,N,30.21,83,18,10,1,17.4,230.3,38.3,7.5,1.7,Waxing Gibbous
+18.5,Clear,6.8,NNW,29.91,44,18.4,10,1,12.6,223.6,50.1,11.7,16.5,Waning Crescent
+28.2,Patchy rain possible,5.8,NNE,29.81,76,32.1,10,9,9.4,247,8.3,0.1,0.1,Waxing Crescent
+32,Partly cloudy,6.1,WNW,29.85,71,42,10,7,1.8,4219.1,147.3,46.6,18.4,New Moon
+11.4,Cloudy,4,SSE,29.86,58,11.7,10,1,7,267,46.5,5,0.4,Waning Crescent
+38.4,Sunny,7.9,NNW,29.6,24,38.9,10,9,11.6,327.1,13.6,0.1,0,Waning Gibbous
+12.5,Clear,6.1,NNW,29.99,34,12.3,10,1,13,587.5,27.2,12.5,2.5,Waning Gibbous
+5,Clear,28.1,W,30.03,70,0.4,10,1,40,253.7,73,4.5,2.4,Waning Gibbous
+33,Clear,6.1,SW,29.77,39,32.9,10,1,30.5,474,26.5,1.5,0.8,Waxing Gibbous
+25.6,Clear,18,ENE,29.93,14,24.2,10,1,29.9,210.3,80.1,0.2,0,Waning Crescent
+27,Partly cloudy,22,N,29.97,66,29.4,10,5,16.2,196.9,30.8,0.5,0,Waxing Crescent
+30,Clear,9,NW,29.74,49,30.7,10,1,18.1,223.6,75.1,11.3,4.4,Full Moon
+18.6,Clear,3.6,ESE,29.95,74,18.6,10,1,10.8,480.7,41.1,2.5,0.4,Last Quarter
+12,Mist,6.8,WSW,30.21,71,10.6,4,1,17,240.3,75.1,4.1,0.6,Waning Crescent
+27.6,Patchy rain possible,6.5,WSW,29.82,74,30.8,10,1,8.9,340.5,49.4,0.1,0,Waxing Crescent
+1,Clear,3.6,SE,30.24,86,0.3,6,1,3.8,1789.1,0,97.3,117.3,First Quarter
+9,Clear,6.1,NNW,30.53,87,7.9,10,1,14.3,634.2,0.6,40.8,10.7,Waxing Crescent
+28,Partly cloudy,3.6,SSE,29.83,84,30.2,9,1,17.6,2670.3,15.2,38,6.4,Waning Crescent
+26.2,Light rain shower,24.8,N,29.72,90,29.8,10,6,32.3,208.6,9.5,0.3,0.2,Waning Crescent
+22.2,Patchy rain possible,6.8,NNE,29.86,85,24.6,10,1,11.6,233.7,11.1,0.3,0.1,Waning Gibbous
+25,Clear,4,SSE,29.97,57,26.2,10,1,8.4,363.8,0.7,76.8,18.4,Waxing Gibbous
+25.6,Clear,10.4,E,29.81,58,26.7,10,1,19.8,1815.8,9.9,8.8,7.1,Waxing Crescent
+19,Partly cloudy,6.8,NW,30.09,88,19,10,1,15.5,250.3,57.9,3.5,4.1,Waning Crescent
+20,Clear,20.2,SSE,29.88,78,20,10,1,23,260.4,72.2,9.1,5.7,Waxing Crescent
+16,Clear,4,S,30.09,88,16,10,1,2.3,323.8,3.1,10.2,0.5,Waxing Crescent
+17,Clear,16.9,SE,29.62,83,17,10,1,12.4,1388.6,0,72,6.1,Waxing Crescent
+14,Clear,6.1,NNE,30.59,77,14.7,10,1,13.3,514,0,80.9,16.9,Waxing Gibbous
+26,Partly cloudy,6.8,ENE,29.8,89,28.4,10,1,11.3,854.5,2.8,20.7,5,Waning Crescent
+30,Partly cloudy,9,N,29.88,70,39.1,9,6,15.4,297.1,30.4,13.4,38.2,Waxing Gibbous
+7,Clear,11.2,ENE,30.21,49,5.4,8,1,16.1,267,70.1,7.1,21.7,New Moon
+28,Partly cloudy,6.1,NNW,29.85,79,33.4,10,1,5.9,1068.1,19.5,30.2,15.5,Waxing Crescent
+9,Clear,11.2,E,30.12,100,7.1,7,1,25.6,307.1,25.4,6,3.4,Full Moon
+13,Moderate rain,24.1,E,29.06,100,11.2,10,1,30,267,35.4,16.6,7,Waxing Crescent
+27,Partly cloudy,3.6,SE,29.83,84,29,10,1,20.8,3017.4,52.2,30.9,14.2,Waxing Crescent
+22.2,Patchy rain possible,20.9,NNE,29.62,45,24.3,10,5,24,423.9,36.5,1,0.4,Waxing Gibbous
+19,Partly cloudy,6.8,NE,30.09,88,19,10,1,9.7,580.8,16.5,4.5,0.5,Waning Gibbous
+5,Clear,6.1,S,30.03,93,3.5,10,1,14.4,357.2,17.9,26.1,3.7,Waning Gibbous
+16,Light drizzle,33.1,N,30.06,100,16,7,5,11.2,208.6,50.8,0.6,6.9,Waning Gibbous
+5,Clear,9,SSE,29.77,87,4.7,7,1,16.2,454,1.2,42.5,1.8,Waxing Gibbous
+29,Partly cloudy,4,N,29.74,75,35.6,10,5,10.2,647.5,107.3,42.5,74.4,Waning Gibbous
+30,Partly cloudy,19.1,ENE,29.97,70,35.7,10,6,30.7,196.9,65.1,0.2,0.2,Waning Gibbous
+25.9,Partly cloudy,3.6,S,29.77,86,28.9,10,1,10.8,193.6,9.7,1.7,0.5,Waning Crescent
+20.5,Clear,19.1,SSE,29.91,59,20.5,16,1,49.1,440.6,30,67.9,12.5,Waxing Gibbous
+24,Clear,9,SW,30.06,27,23.9,10,1,22.6,193.6,34,0.3,0.4,Waning Crescent
+24,Partly cloudy,3.6,E,29.91,94,26.2,10,1,16.9,190.3,6.7,2.2,1.8,Waxing Gibbous
+20.5,Clear,22.7,E,29.95,56,20.5,10,1,31.5,237,41.1,0.3,0.1,Waning Gibbous
+21,Partly cloudy,6.1,W,30,94,21,10,1,0,433.9,0.9,1.5,0.3,Waning Crescent
+24.1,Clear,13,ENE,29.97,38,24.7,10,1,21.3,507.4,38.3,7,8.4,Waxing Gibbous
+19,Partly cloudy,3.6,N,30.21,56,19,10,1,16.9,520.7,27.9,6,6.2,New Moon
+23,Clear,25.9,SW,29.88,65,24.6,10,1,7.5,270.4,90.1,10.5,17.9,Waxing Gibbous
+19.1,Clear,3.6,NNW,29.96,62,19.1,10,1,6.8,227,16.3,1.2,0.7,Waning Crescent
+28,Overcast,13,N,29.94,11,26,6,7,24.8,257,63.7,0.9,0.6,Waning Crescent
+19.7,Clear,22.3,E,29.97,67,19.7,10,1,30.5,217,32.2,0.2,0.2,Waxing Gibbous
+28.5,Sunny,19.1,ESE,29.93,68,31.6,10,7,23.1,230.3,57.2,0.7,0.5,Waning Gibbous
+20,Mist,3.6,N,29.94,60,20,3,1,4.6,2643.6,0.1,54.2,17.6,Waxing Gibbous
+22,Patchy light rain with thunder,13,E,30,78,24.5,10,1,20.2,420.6,10.2,2.5,1.9,Waxing Gibbous
+18,Partly cloudy,6.1,NNW,30.09,88,18,10,1,4,297.1,30,1.3,0.4,Waning Gibbous
+23,Partly cloudy,6.8,ESE,30.24,20,24,16,5,9.1,1455.3,76.5,69.9,52.5,Waxing Crescent
+30,Partly cloudy,19.1,E,29.88,94,36,10,6,37.9,188.6,14.5,0,0.1,Waxing Gibbous
+16.2,Clear,11.9,ENE,30.04,47,16.2,10,1,13.7,201.9,54.4,6.5,10.5,Waning Gibbous
+30,Overcast,19.1,E,29.8,66,35.7,10,6,16.2,230.3,77.3,8.2,1,Waxing Crescent
+32,Partly cloudy,13,N,29.74,67,39.9,10,7,13.2,283.7,46.5,5.6,8.1,Full Moon
+28,Clear,19.1,N,29.94,9,26,6,7,26.6,247,68.7,0.7,0.4,Waning Crescent
+13.4,Clear,7.6,NNE,30.08,42,13.1,10,1,15.9,1762.4,20.9,53.5,5.3,Waxing Crescent
+27,Clear,16.9,N,29.94,74,28.4,10,1,21.1,277,68.7,43.9,26,Waxing Crescent
+11,Partly cloudy,38.9,W,29.8,71,7.5,10,1,54.6,230.3,76.5,6.9,1.9,Waxing Gibbous
+10,Overcast,24.1,WSW,30.36,71,7.2,10,1,35.6,250.3,78.7,10.3,2.2,Waxing Gibbous
+29,Partly cloudy,9,ESE,29.86,70,34.2,10,8,17.3,260.4,76.5,0.2,0.2,Waning Gibbous
+24,Partly cloudy,11.2,ENE,30.09,61,25.8,10,1,18.4,527.4,25,4.3,1.1,Waning Crescent
+19,Partly cloudy,15.1,SSW,30.12,83,19,10,1,11.3,674.3,9.8,4.1,0.4,Waxing Gibbous
+12,Partly cloudy,3.6,ESE,30.21,94,12.1,7,1,9.8,1789.1,21.1,26.1,9.4,Waxing Gibbous
+13.7,Partly cloudy,8.3,ESE,30.09,85,13.3,10,1,13.7,370.5,64.4,2.6,2.5,Waning Gibbous
+33,Partly cloudy,6.8,ESE,29.74,63,42.7,10,6,14.5,283.7,33.6,4.2,6.7,Waxing Gibbous
+8,Partly cloudy,6.1,W,30.5,71,7,10,1,11.6,487.3,27.2,34.6,4.8,Waning Gibbous
+23,Moderate or heavy rain with thunder,11.2,SE,30.03,100,25.2,4,1,14.8,674.3,3.9,3,1.1,Waning Gibbous
+23,Partly cloudy,24.1,SW,29.97,41,23.8,10,6,20.3,277,73.7,3.2,4.7,Waxing Gibbous
+24,Partly cloudy,15.1,NW,30.01,61,25.6,10,5,28.5,220.3,83.7,0.3,0.2,Waning Gibbous
+27,Light rain,4,E,29.8,100,31.9,10,1,7.1,280.4,38.3,2.9,1,Waxing Crescent
+1.5,Light sleet,12.2,ENE,29.66,83,-2.1,9,1,16.1,233.7,72.2,0.2,0.1,Waning Crescent
+4,Clear,11.2,SSE,30.03,87,2.4,10,1,18.4,474,0,89.1,9.9,Waning Gibbous
+23.2,Patchy rain possible,3.6,W,30.01,70,25.1,9,1,5.4,253.7,32.9,0.2,0.1,Waxing Crescent
+22,Partly cloudy,9,NW,30.01,83,24.5,10,5,4.7,400.5,12.5,16.6,15.5,Waning Gibbous
+27,Partly cloudy,9,WNW,29.79,89,30,21,1,31,188.6,36.8,0.1,0.1,Waxing Gibbous
+25,Partly cloudy,6.1,ENE,29.97,83,27,10,1,17.3,267,67.2,23,4.5,Waning Gibbous
+3,Fog,11.5,ESE,29.71,99,-0.1,0,1,20.1,267,24,15.1,5.7,Waxing Crescent
+28.4,Partly cloudy,19.1,WNW,29.81,67,31.3,10,1,40.1,270.4,54.4,1.1,0.7,Waning Gibbous
+32,Partly cloudy,11.2,E,29.83,71,35.4,10,8,17.6,185.3,45.8,0.6,1.1,Waxing Crescent
+26.1,Clear,33.8,E,29.86,76,28.4,10,1,47.5,293.7,71.5,0.5,0.5,Waning Gibbous
+21,Patchy rain possible,6.8,NNE,29.93,91,21,10,1,7.9,774.4,12.9,5.7,1.2,Waning Gibbous
+15.1,Clear,7.2,NE,30.06,29,15.1,10,1,12.9,191.9,57.9,10.4,15.3,Waning Crescent
+27,Partly cloudy,24.1,ENE,29.88,66,28.9,10,6,55.2,213.6,83,0.3,0.3,New Moon
+19.6,Patchy rain possible,10.1,NNW,29.89,53,19.6,9,4,11.6,1241.7,0.9,38,34.8,Waning Gibbous
+-1.2,Clear,6.1,SSW,30.25,55,-3.5,10,1,12.9,2403.3,48.6,24.3,1,Waning Crescent
+17,Partly cloudy,6.8,SW,30.15,100,17,10,1,11.3,794.4,7.2,6.9,0.9,Waxing Crescent
+26,Sunny,28.1,SSW,29.8,37,24.5,10,7,35.3,290.4,115.9,3.3,10.1,Waxing Crescent
+12,Overcast,38.9,S,30.36,58,9.4,10,4,31.5,205.3,44.4,0.3,0.3,Waning Crescent
+24,Partly cloudy,15.1,NNE,30.21,50,25.4,9,6,22.3,233.7,103,1.8,5.3,Waning Gibbous
+20,Light rain,9,N,30.03,100,20,8,1,13.8,380.5,1.6,1.2,0.2,Waning Gibbous
+29,Sunny,10.1,NW,29.76,72,33.2,10,7,13.8,168.6,7.2,0,0,Last Quarter
+27,Partly cloudy,28.1,SE,29.83,84,30.9,10,1,47.9,208.6,47.2,0.2,0.5,Waxing Crescent
+14,Partly cloudy,3.6,SE,30,88,14.5,10,1,9.1,507.4,35.4,24.7,8.5,Last Quarter
+23,Clear,9,N,29.94,61,24.9,8,1,12,1028.1,1.6,43.9,18.8,Waxing Crescent
+24,Partly cloudy,3.6,N,29.97,74,26.3,10,1,9.1,520.7,21.6,1.8,0.7,Waxing Crescent
+18,Partly cloudy,19.1,NE,30.36,42,18,10,1,22.7,176.9,62.9,0.9,0.4,Waning Crescent
+-4,Overcast,9,ENE,30.35,74,-6.3,24,1,16.2,534.1,25.4,50,17.2,Waxing Gibbous
+23,Partly cloudy,3.6,N,30.03,78,25.4,10,1,3.7,674.3,3.4,4.1,1.3,Full Moon
+8,Partly cloudy,11.2,N,30.3,66,5.7,10,1,25.6,195.3,72.2,0.6,0.2,Waxing Gibbous
+-0.2,Heavy snow,6.1,N,29.84,98,-2.3,2,1,12.2,181.9,64.4,1.1,0.1,Full Moon
+1,Light snow,13,SSE,29.41,93,-3.5,4,1,24.1,230.3,57.2,2.4,0.1,New Moon
+19,Partly cloudy,6.8,SSE,30.36,26,19,16,5,14,2857.2,181.7,106.9,137.3,Waning Gibbous
+-6,Heavy snow,19.1,NW,29.53,93,-12.4,1.2,1,25.4,267,50.8,4.3,0.3,Waning Gibbous
+26,Partly cloudy,31,E,30,48,26.8,10,6,38.2,220.3,57.9,3.4,6.5,Waning Crescent
+4,Partly cloudy,20.2,NNE,30.39,60,0.4,10,1,21.4,253.7,74.4,9.4,3.2,Waning Crescent
+19.5,Clear,6.8,SSE,29.89,64,19.5,14,1,46.8,317.1,100.1,30.2,27.2,Waxing Gibbous
+12,Partly cloudy,31,WSW,29.12,77,8.7,10,1,57.5,243.7,81.5,1.1,0.8,Waning Crescent
+9,Light rain,59,SSW,29.74,87,4.6,3.4,2,48,208.6,56.5,0.2,0.2,Waxing Gibbous
+28,Partly cloudy,20.2,ESE,30,79,31.6,10,6,30.7,205.3,60.1,0.3,0.3,Waxing Gibbous
+19,Clear,3.6,S,29.91,94,19,10,1,13.3,2670.3,0,78.8,82,New Moon
+39.6,Sunny,9.4,E,29.59,15,39.3,10,9,11.3,260.4,37.2,0.1,0.2,Waxing Gibbous
+30,Partly cloudy,6.8,NNW,29.94,66,36.6,10,6,45.6,191.9,39.3,0.2,0.3,Waxing Crescent
+29,Clear,9,SSE,29.85,79,32.1,7,1,22.9,460.6,30,3.6,1.4,Waning Gibbous
+2.9,Clear,3.6,WSW,30.19,53,2.9,10,1,4.5,2964,56.5,24.3,0.9,Waxing Gibbous
+20.4,Clear,3.6,NW,29.8,83,20.4,10,1,3.8,527.4,4.9,8.8,1.7,Waxing Gibbous
+34.4,Patchy rain possible,4.7,ENE,29.71,44,38.1,10,7,6.1,327.1,13.6,0.6,0.2,Waxing Gibbous
+9,Clear,6.8,NE,29.74,66,7.7,10,1,17,260.4,55.1,4.5,4.1,Waxing Gibbous
+19,Partly cloudy,6.1,S,30.03,88,19,6,1,5.3,1401.9,2.1,7.2,1.2,Waning Crescent
+27,Partly cloudy,9,SW,29.85,89,31.5,9,1,14.3,363.8,22.9,2.9,2.3,Waning Gibbous
+31,Partly cloudy,15.1,ENE,29.97,38,31.3,10,7,16.6,270.4,97.3,1.5,4.3,Waning Crescent
+-8,Clear,11.2,NNW,30.39,73,-12.4,10,1,11.9,357.2,17.9,24,14.4,Waning Crescent
+21.1,Sunny,11.5,SSW,29.9,87,21.1,10,6,20.2,403.9,27.2,6.2,2.3,Last Quarter
+19,Clear,11.2,SE,30.08,83,19,10,1,21.3,3177.6,0,131.6,86.8,Waxing Crescent
+23,Patchy rain possible,3.6,SSE,29.87,83,25.1,9,1,1.9,921.3,15.2,7.7,1.9,Waning Crescent
+-1,Mist,11.2,WSW,30.27,100,-4.6,3.5,1,17.2,343.8,32.9,25.4,8.2,Waxing Crescent
+17.2,Clear,5.8,N,29.98,46,17.2,10,1,12.1,3257.8,7.8,90.5,25.5,Waxing Crescent
+28,Partly cloudy,6.8,ESE,30,40,26.3,10,1,14,921.3,95.8,43.2,6.8,Waxing Gibbous
+34.3,Clear,25.9,NNW,29.65,27,33.7,10,1,48.6,300.4,140.2,3.3,4.5,New Moon
+19,Clear,19.1,SW,30.03,64,19,10,1,5.7,217,65.8,11.5,3.9,Waning Crescent
+4,Partly cloudy,6.8,WSW,29.97,93,1.6,10,1,18.5,273.7,25.8,14.9,6.1,New Moon
+30,Overcast,20.2,SE,29.94,70,32.4,10,7,25.3,203.6,59.4,0.5,0.4,Waning Gibbous
+10,Sunny,3.6,N,29.85,100,10.3,10,4,1.7,227,12.3,7.6,0.9,Waxing Crescent
+26,Partly cloudy,20.2,SSW,29.91,89,29.3,10,1,24.1,480.7,21.1,3.6,1.1,Waxing Crescent
+15.1,Clear,20.2,SE,29.67,81,15.1,10,1,36.4,350.5,61.5,14.1,1.3,Waning Gibbous
+4.5,Clear,5,E,30.21,74,3.5,10,1,10.6,203.6,32.5,2,1.7,Waxing Crescent
+28,Partly cloudy,6.8,E,29.77,70,31.2,24,1,42.6,190.3,59.4,0,0.4,Waning Crescent
+17,Partly cloudy,6.8,WSW,30.14,52,17,24,4,9.8,212,48.6,1.3,0.1,Waxing Crescent
+33,Partly cloudy,3.6,SE,29.85,56,35.5,10,8,12.6,580.8,14.8,3.9,1.7,New Moon
+27,Partly cloudy,25.9,E,29.94,70,29.7,10,1,33.1,290.4,29.3,1.4,1.2,Waning Gibbous
+25,Partly cloudy,6.1,SSE,29.82,94,27.7,24,1,15.4,253.7,24,0.1,0.1,Waxing Crescent
+6.4,Mist,5,SE,29.95,96,5.6,2,1,10.1,1054.8,11,32.2,11.4,Waning Crescent
+28.8,Clear,15.8,NNW,29.92,34,28.1,10,1,26.6,230.3,95.8,8.8,3.9,Waxing Crescent
+15.1,Clear,20.2,SE,29.67,81,15.1,10,1,36.4,350.5,61.5,14.1,1.3,Waning Gibbous
+29.1,Patchy rain possible,13.3,ENE,29.62,73,33.5,9,1,23.5,198.6,10,0,0.1,Waxing Crescent
+24,Partly cloudy,9,NNE,30.06,74,25.8,10,6,10.4,223.6,95.8,1.2,0.8,New Moon
+5.7,Mist,6.8,SSW,29.95,95,4.2,2,1,14.3,170.2,35.1,2,0.7,Waxing Crescent
+0,Partly cloudy,15.1,SSE,29.88,93,-3.9,6,1,18.8,527.4,6.4,36.7,34.8,Waning Crescent
+26,Sunny,22,SSW,29.91,28,26.2,10,6,11.6,1174.9,53.6,36.3,7.9,Waning Crescent
+2,Overcast,25.9,SSW,29.29,93,0,3.3,1,33.1,300.4,35.8,17.1,3.8,Last Quarter
+11,Partly cloudy,22,WNW,30.03,87,7.5,10,1,50.4,277,60.8,14.6,2,Waning Gibbous
+7,Patchy rain possible,14.8,NW,29.98,71,4.3,10,1,25,243.7,60.8,7.5,1.9,Waxing Gibbous
+23.3,Sunny,29.9,NE,29.56,35,24.2,10,6,34.4,290.4,45.8,0.7,0.2,Waning Gibbous
+31,Mist,4,N,29.88,15,28.8,4,1,15.9,1482,60.8,19.7,7.2,Last Quarter
+24,Clear,3.6,W,29.97,74,25.7,8,1,4,454,18.1,4.5,0.9,Waning Gibbous

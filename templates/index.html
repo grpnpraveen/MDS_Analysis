@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Data Visualization</title>
+    <link rel="icon" href="{{ url_for('static', filename='images/title_icon.png') }}" type="image/x-icon">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://d3js.org/d3.v4.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3-tip/0.9.1/d3-tip.min.js"></script>
+</head>
+<body>
+    <nav class="nav-max" >
+        <header>
+          <img src="{{ url_for('static', filename='images/icon.png') }}" style="width: 50px;border-radius: 8px;" alt="">
+          <h1>Global Weather</h1><span>2023</span>
+        </header>
+        <button id="toggle-nav-btn" class="circle"></button>
+        <br>
+        <hr>
+        <ul class="menu">
+          <li>
+            <a class="nav-link" href="#" onclick="menu_select(1)">
+                <img src="{{ url_for('static', filename='images/biplot.png') }}" style="width: 45px;border-radius: 8px;" alt="">
+                <span>
+                  MDS
+                </span>
+            </a>
+          </li>
+          <li>
+            <a class="nav-link" href="#" onclick="menu_select(2)">
+                <img src="{{ url_for('static', filename='images/pca.png') }}" style="width: 45px;border-radius: 8px;" alt="">
+                <span>
+                  MDS Variables
+                </span>
+            </a>
+          </li>
+          <li>
+            <a class="nav-link" href="#" onclick="menu_select(3)">
+                <img src="{{ url_for('static', filename='images/pcp.png') }}" style="width: 45px;border-radius: 8px;" alt="">
+                <span>
+                  PCP
+                </span>
+            </a>
+          </li>
+          <li>
+            <a class="nav-link" href="#" onclick="menu_select(4)">
+                <img src="{{ url_for('static', filename='images/pcp_var.png') }}" style="width: 45px;border-radius: 8px;" alt="">
+                <span>
+                  PCP Selected Variables
+                </span>
+            </a>
+          </li>
+          <li>
+            <a class="nav-link" href="#" onclick="menu_select(5)">
+                <img src="{{ url_for('static', filename='images/kmeans.png') }}" style="width: 45px;border-radius: 8px;" alt="">
+                <span>
+                    K Means 
+                </span>
+            </a>
+          </li>
+        </ul>
+      </nav>
+
+
+
+    <!-- Data visualization -->
+    <div class="main" style="margin-left: 180px;padding-top:30px;padding-left:200px;">
+
+    <svg class="col-auto" id="visualization" style="margin-left:-10%"></svg>
+
+    </div>
+
+    
+</body>
+
+<script src="{{ url_for('static', filename='js/mds.js') }}"></script>
+<script src="{{ url_for('static', filename='js/mds_var.js') }}"></script>
+<script src="{{ url_for('static', filename='js/pcp.js') }}"></script>
+<script src="{{ url_for('static', filename='js/pcp_var.js') }}"></script>
+<script src="{{ url_for('static', filename='js/elbow.js') }}"></script>
+<script>
+const navBar = document.querySelector("nav")
+const toggleNavBtn = document.querySelector("#toggle-nav-btn")
+const menu= document.getElementById("menu")
+toggleNavBtn.addEventListener("click", (event) => {
+  toggleNav()
+})
+
+function toggleNav() {
+  if (navBar.classList.contains("nav-min")){
+    openNav()
+  } else {
+    closeNav()
+  }
+}
+
+function openNav() {
+  navBar.classList.remove("nav-min") 
+  navBar.classList.add("nav-max") 
+}
+
+function closeNav() {
+  navBar.classList.remove("nav-max") 
+  navBar.classList.add("nav-min")
+}
+
+
+// Medias
+const phone = window.matchMedia("(width <= 480px)")
+function media(e) {
+  if (e.matches) {
+    closeNav()
+  } else {
+    openNav()
+  }
+}
+phone.addListener(media)
+
+// Main Logics
+var cluster_colors =["skyblue","orange","violet","green","red","white"]
+var selected_Features = []
+var selected_dots=[];
+var euc_mds_list = {{ euc_mds_list | safe }}
+var mds_cluster = {{ mds_cluster | safe }}
+var features = {{ features | safe }}
+var mds_correlation_list = {{ mds_correlation_list | safe }}
+var pcp_cluster_vals = {{ pcp_cluster | safe }}
+
+// Elbow 
+var elbowXvalues = {{ elbowXvalues | safe }}
+var elbowYvalues = {{ elbowYvalues | safe }}
+var current_k = 5; 
+function mds_data_plot() {
+  mds_data_func(euc_mds_list, mds_cluster)
+}
+
+// Main Functions 
+function menu_select(x)
+{
+  switch(x)
+  {
+    case 1:
+      mds_data_plot();
+      break;
+    case 2:
+      mds_var_func(mds_correlation_list, features);
+      break;
+    case 3:
+      pcp_plt_func(pcp_cluster_vals);
+      break;
+    case 4:
+      pcp_selec_vars(selected_Features,pcp_cluster_vals);
+      break;
+    case 5:
+      show_elbowplot();
+      break;
+    default:
+      alert("Invalid Selection");
+
+  }
+}
+
+mds_data_plot();
+//mds_var_func(mds_correlation_list, features)
+//pcp_plt_func(pcp_cluster_vals)
+//pcp_selec_vars(selected_Features,pcp_cluster_vals)
+</script>
+
+</html>
